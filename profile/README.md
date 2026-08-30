@@ -8,9 +8,12 @@ Whetstone is an independent software studio building browser extensions.
 
 ## Extensions
 
-**Original YouTube Titles** — *in review*
+### Original YouTube Titles
+
+*In review — coming to Firefox Add-ons*
+
 YouTube auto-translates video titles into your interface language. This extension
-undoes that: every title shows exactly as the creator wrote it. Firefox, 12 languages.
+undoes that: every title shows exactly as the creator wrote it. 12 languages.
 
 ## How we build
 
